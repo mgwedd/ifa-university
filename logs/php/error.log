@@ -3,3 +3,87 @@
 [21-May-2019 15:17:40 UTC] PHP Parse error:  syntax error, unexpected '$myname' (T_VARIABLE), expecting ',' or ';' in /app/public/experiment.php on line 2
 [21-May-2019 15:18:32 UTC] PHP Parse error:  syntax error, unexpected '$myname' (T_VARIABLE), expecting ',' or ';' in /app/public/experiment.php on line 2
 [21-May-2019 16:17:24 UTC] PHP Parse error:  syntax error, unexpected ')' in /app/public/wp-content/themes/ifa-theme/index.php on line 5
+[21-May-2019 19:41:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_get_file_uri() in /app/public/wp-content/themes/ifa-theme/page.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/ifa-theme/page.php on line 7
+[21-May-2019 19:43:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_get_file_uri() in /app/public/wp-content/themes/ifa-theme/page.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/ifa-theme/page.php on line 7
+[21-May-2019 19:43:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_get_file_uri() in /app/public/wp-content/themes/ifa-theme/page.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/ifa-theme/page.php on line 7
+[21-May-2019 19:43:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_get_file_uri() in /app/public/wp-content/themes/ifa-theme/page.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/ifa-theme/page.php on line 7
+[21-May-2019 19:43:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_get_file_uri() in /app/public/wp-content/themes/ifa-theme/page.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/ifa-theme/page.php on line 7
+[21-May-2019 19:44:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_get_file_uri() in /app/public/wp-content/themes/ifa-theme/page.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/ifa-theme/page.php on line 7
+[21-May-2019 19:48:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_get_file_uri() in /app/public/wp-content/themes/ifa-theme/page.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/ifa-theme/page.php on line 7
+[21-May-2019 19:49:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_get_file_uri() in /app/public/wp-content/themes/ifa-theme/page.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/ifa-theme/page.php on line 7
+[21-May-2019 19:49:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_get_file_uri() in /app/public/wp-content/themes/ifa-theme/page.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/ifa-theme/page.php on line 7
+[21-May-2019 19:49:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_get_file_uri() in /app/public/wp-content/themes/ifa-theme/page.php:7
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/ifa-theme/page.php on line 7
+[21-May-2019 19:59:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file() in /app/public/wp-content/themes/ifa-theme/page.php:8
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/ifa-theme/page.php on line 8
+[21-May-2019 20:00:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file() in /app/public/wp-content/themes/ifa-theme/page.php:8
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/ifa-theme/page.php on line 8
