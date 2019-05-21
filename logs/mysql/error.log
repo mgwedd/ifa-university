@@ -60,3 +60,6 @@ Version: '5.7.23'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Comm
 2019-05-21T14:46:59.423843Z 6 [Warning] 'proxies_priv' entry '@ root@localhost' ignored in --skip-name-resolve mode.
 2019-05-21T14:46:59.423963Z 6 [Warning] 'tables_priv' entry 'user mysql.session@localhost' ignored in --skip-name-resolve mode.
 2019-05-21T14:46:59.423971Z 6 [Warning] 'tables_priv' entry 'sys_config mysql.sys@localhost' ignored in --skip-name-resolve mode.
+2019-05-21T16:31:31.041079Z 27 [Note] Aborted connection 27 to db: 'local' user: 'root' host: '192.168.95.1' (Got an error reading communication packets)
+2019-05-21T16:31:31.341811Z 28 [Note] Aborted connection 28 to db: 'unconnected' user: 'root' host: '192.168.95.1' (Got an error reading communication packets)
+2019-05-21T17:55:36.466390Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 5041550ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
