@@ -1,3 +1,4 @@
+<!-- Pages are just a Post with a post-type of 'page' -->
 <?php
     get_header();
 
